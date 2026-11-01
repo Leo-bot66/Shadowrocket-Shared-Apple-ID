@@ -1,25 +1,22 @@
 # 小火箭共享账号｜Shadowrocket 共享ID：免费美区 Apple ID 每日更新与安全使用指南
 
-> **最近更新：2026-11-01** ｜ 当前可用 **12 个账号**（美区 7 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）｜ 长期维护
+> **最近更新：2026-11-01** ｜ 当前可用 **15 个账号**（美区 10 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）｜ 长期维护
+
+<p align="center">
+  <a href="https://id.tangping.icu/"><img src="https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%AB_ID-%E7%AB%8B%E5%8D%B3%E5%8F%96%E5%8F%B7-22c55e?style=for-the-badge&labelColor=15803d" alt="免费共享 ID · 立即取号" height="42"></a>
+  &nbsp;&nbsp;
+  <a href="https://gg.tangping.icu/products/upstream-1-6-1787508489116"><img src="https://img.shields.io/badge/%E7%8B%AC%E4%BA%AB%E5%B0%8F%E7%81%AB%E7%AE%AD-%E5%B7%B2%E8%B4%AD%E6%88%90%E5%93%81%E5%8F%B7-f97316?style=for-the-badge&labelColor=c2410c" alt="独享小火箭 · 已购成品号" height="42"></a>
+  &nbsp;&nbsp;
+  <a href="https://gg.tangping.icu/products"><img src="https://img.shields.io/badge/%E5%90%84%E5%8C%BA%E8%80%81%E5%8F%B7-%E7%BE%8E%E6%B8%AF%E5%8F%B0%E6%97%A5%E9%9F%A9-3b82f6?style=for-the-badge&labelColor=1d4ed8" alt="各区老号 · 美港台日韩" height="42"></a>
+</p>
+
+<p align="center"><b>① 免费共享</b>　不花钱 · 多人共用，登不上换一个　｜　<b>② 独享小火箭</b>　自带 Shadowrocket · 可改密码　｜　<b>③ 各区老号</b>　可转区 · 现货即发</p>
 
 用于在被锁区（例如中国区）的 App Store 免费下载 **小火箭 Shadowrocket**、Quantumult X、Stash
 等已被下架的应用。所有账号由系统**自动轮换密码**维持可用，失效会自动重置。
 
----
-
-## 👉 三个入口，按需选一个
-
-| 🆓 免费共享 ID | 🚀 独享小火箭（已购） | 🌏 各区老号 |
-|:---:|:---:|:---:|
-| [<kbd>立即取号 →</kbd>](https://id.tangping.icu/) | [<kbd>已购成品号 →</kbd>](https://gg.tangping.icu/products/upstream-1-6-1787508489116) | [<kbd>美港台日韩 →</kbd>](https://gg.tangping.icu/products) |
-| 12 个号 · 实时状态<br>点「显示密码」即复制 | 自带 Shadowrocket<br>可改密码 · 长期自己用 | 04–20 年老号<br>可转区 · 现货直发 |
-
-> **① 免费共享** —— 不花钱，多人共用，可能被别人改密，登不上就换下一个号。
-> **② 独享小火箭** —— 自己一个人的号，自带已购的 Shadowrocket，能改密码、长期用。
-> **③ 各区老号** —— 美区 / 香港 / 台湾 / 日本 / 韩国 / 土耳其等，可转区，按需挑。
->
 > 为什么 README 里不写密码？共享账号密码会被系统定期轮换，写在文档里**很快失效**。
-> 上面第一个入口是实时的，永远拿到的是最新密码。
+> 最左边那个绿色按钮是实时的，永远拿到的是最新密码。
 
 ---
 
@@ -27,7 +24,7 @@
 
 | 地区 | 数量 | 适合下载 |
 |---|---|---|
-| 🇺🇸 美区 | 7 | Shadowrocket（小火箭）、Quantumult X、Stash —— 美区应用最全 |
+| 🇺🇸 美区 | 10 | Shadowrocket（小火箭）、Quantumult X、Stash —— 美区应用最全 |
 | 🇭🇰 香港区 | 1 | 港区独占应用 |
 | 🇹🇼 台湾区 | 2 | 台区独占应用 |
 | 🇯🇵 日本区 | 1 | 日区独占应用 |
@@ -118,7 +115,7 @@
 
 ## 🔄 更新记录
 
-- **2026-11-01**：全量复核，12 个账号（美区 7 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）全部可用
+- **2026-11-01**：全量复核，15 个账号（美区 10 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）全部可用
 - **2026-10-31**：全量复核，13 个账号（美区 8 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）全部可用
 - **2026-10-30**：全量复核，14 个账号（美区 9 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）全部可用
 - **2026-10-29**：全量复核，12 个账号（美区 7 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）全部可用
