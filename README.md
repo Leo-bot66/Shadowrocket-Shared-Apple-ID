@@ -2,12 +2,14 @@
 
 > **最近更新：2026-11-01** ｜ 当前可用 **15 个账号**（美区 10 · 香港区 1 · 台湾区 2 · 日本区 1 · 韩国区 1）｜ 长期维护
 
+<p align="center"><b>👇 下面三个都是按钮，点哪个进哪个</b></p>
+
 <p align="center">
-  <a href="https://id.tangping.icu/"><img src="https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%AB_ID-%E7%AB%8B%E5%8D%B3%E5%8F%96%E5%8F%B7-22c55e?style=for-the-badge&labelColor=15803d" alt="免费共享 ID · 立即取号" height="42"></a>
+  <a href="https://id.tangping.icu/" title="点击进入免费共享页，实时显示每个账号的可用状态"><img src="https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%AB_ID-%E7%AB%8B%E5%8D%B3%E5%8F%96%E5%8F%B7-22c55e?style=for-the-badge&labelColor=15803d" alt="免费共享 ID · 立即取号" height="58"></a>
   &nbsp;&nbsp;
-  <a href="https://gg.tangping.icu/products/upstream-1-6-1787508489116"><img src="https://img.shields.io/badge/%E7%8B%AC%E4%BA%AB%E5%B0%8F%E7%81%AB%E7%AE%AD-%E5%B7%B2%E8%B4%AD%E6%88%90%E5%93%81%E5%8F%B7-f97316?style=for-the-badge&labelColor=c2410c" alt="独享小火箭 · 已购成品号" height="42"></a>
+  <a href="https://gg.tangping.icu/products/upstream-1-6-1787508489116" title="点击查看自带 Shadowrocket 的成品独享号"><img src="https://img.shields.io/badge/%E7%8B%AC%E4%BA%AB%E5%B0%8F%E7%81%AB%E7%AE%AD-%E5%B7%B2%E8%B4%AD%E6%88%90%E5%93%81%E5%8F%B7-f97316?style=for-the-badge&labelColor=c2410c" alt="独享小火箭 · 已购成品号" height="58"></a>
   &nbsp;&nbsp;
-  <a href="https://gg.tangping.icu/products"><img src="https://img.shields.io/badge/%E5%90%84%E5%8C%BA%E8%80%81%E5%8F%B7-%E7%BE%8E%E6%B8%AF%E5%8F%B0%E6%97%A5%E9%9F%A9-3b82f6?style=for-the-badge&labelColor=1d4ed8" alt="各区老号 · 美港台日韩" height="42"></a>
+  <a href="https://gg.tangping.icu/products" title="点击查看美区/港区/台区/日区/韩区老号现货"><img src="https://img.shields.io/badge/%E5%90%84%E5%8C%BA%E8%80%81%E5%8F%B7-%E7%BE%8E%E6%B8%AF%E5%8F%B0%E6%97%A5%E9%9F%A9-3b82f6?style=for-the-badge&labelColor=1d4ed8" alt="各区老号 · 美港台日韩" height="58"></a>
 </p>
 
 <p align="center"><b>① 免费共享</b>　不花钱 · 多人共用，登不上换一个　｜　<b>② 独享小火箭</b>　自带 Shadowrocket · 可改密码　｜　<b>③ 各区老号</b>　可转区 · 现货即发</p>
