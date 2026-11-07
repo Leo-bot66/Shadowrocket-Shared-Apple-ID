@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://id.tangping.icu/" title="点击进入免费共享页，实时显示每个账号的可用状态"><img src="https://leo-bot66.github.io/-id-/assets/btn_live.png" alt="免费共享 ID · 立即取号" height="60"></a>
   <br><br>
-  <a href="https://gg.tangping.icu/products/upstream-1-6-1787508489116" title="点击查看自带 Shadowrocket 的成品独享号"><img src="https://leo-bot66.github.io/-id-/assets/btn_rocket.png" alt="独享小火箭 · 已购成品号" height="60"></a>
+  <a href="https://gg.tangping.icu/products/upstream-1-6-1787508489116" title="点击查看自带 Shadowrocket 的成品独享号"><img src="https://leo-bot66.github.io/-id-/assets/btn_rocket.png?v=2" alt="独享小火箭 · 已购成品号" height="60"></a>
   <br><br>
   <a href="https://gg.tangping.icu/products" title="点击查看美区/港区/台区/日区/韩区老号现货"><img src="https://leo-bot66.github.io/-id-/assets/btn_shopall.png" alt="各区老号 · 美港台日韩" height="60"></a>
 </p>
