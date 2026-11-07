@@ -66,10 +66,6 @@
 ## 📖 完整教程与延伸
 
 - **[小火箭美区 Apple ID 共享与使用教程](https://leo-bot66.github.io/-id-/)** —— 含完整下载步骤、五类常见报错处理、各区域 Apple ID 用途对比表
-- **[美区 Apple ID 共享：免费账号获取与登录下载小火箭](https://leo-bot66.github.io/-id-/us-apple-id/)** —— 为什么下载小火箭必须用美区、共享美区 ID 从哪里拿、六步登录流程与三类报错处理
-- **[Shadowrocket 共享账号完整指南](https://leo-bot66.github.io/-id-/shadowrocket/)** —— 小火箭为什么搜不到、共享号与自己注册的成本对比、下载后如何导入订阅
-- **[小火箭共享 ID 免费获取](https://leo-bot66.github.io/-id-/free/)** —— 免费号从哪来、密码为什么总在变、在线/维护/下架三种状态怎么读
-- **[共享 ID 是什么意思](https://leo-bot66.github.io/-id-/shared-id/)** —— 共享号、独享号、自己注册号三者完整对比，判断共享 ID 站是否靠谱的四个信号
 - 需要**独享账号**（可以自己改密码、长期稳定使用）→ **[苹果 ID 批发零售小铺](https://gg.tangping.icu/)**
   美区 / 香港区 / 台湾区 / 日区等各区域现货，一件也是批发价
 
